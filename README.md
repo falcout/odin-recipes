@@ -1,1 +1,2 @@
 # odin-recipes
+This is a recipe website project that I will build using only what I have learned on TOP so far, which are the fundamentals of HTML - headings and paragraphs, formatting elements, images, lists and links. My goal is to use them as efficiently and organized as possible while making use of the best coding practices.
