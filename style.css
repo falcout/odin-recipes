@@ -1,16 +1,31 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
 body {
     font-family: Georgia, serif;
-    background-color:rgb(114, 48, 39);
-    color: rgb(208, 211, 42);
-    font-size: 22px;
-    width: 500px;
+    background-color: rgb(243, 228, 228);
+    color: black;
+}
+
+h1 {
     text-align: center;
 }
 
-h1, h2 {
-    color: rgb(252, 132, 21);
+ul {
+    width: max-content;
+    border: 5px double black;
+    margin: 0 auto;
+    background-color: rgb(128, 75, 75);
+}
+
+li {
+    font-size: x-large;
+    padding: 20px 10px;
 }
 
 a {
-    color: rgb(239, 241, 88);
+    color: rgb(255, 255, 255);
 }
